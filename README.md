@@ -68,4 +68,6 @@ To remove the vehicle, just push the button. It's gonna show the payment value a
 
 <img src="./img/exclusao.gif" width="500" height="450" alt="Create frame" title="Create frame"/>
 
+To perform, run as a Java Application on the EstacionamentoApp.java class.
+
 *Everything made with a lot of curiosity and programming passion*
