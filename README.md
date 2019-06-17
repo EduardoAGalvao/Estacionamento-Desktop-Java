@@ -60,13 +60,13 @@ It's possible to insert a new vehicle adding the license plate and vehicle model
 
 It's possible to update the license plate and the model, but never the date and time or the payment value.
 
-<img src="./img/edicao.gif" width="500" height="450" alt="Create frame" title="Create frame"/>
+<img src="./img/edicao.gif" width="500" height="450" alt="Update frame" title="Update frame"/>
 
 ### Delete
 
 To remove the vehicle, just push the button. It's gonna show the payment value and the current exit date and time.
 
-<img src="./img/exclusao.gif" width="500" height="450" alt="Create frame" title="Create frame"/>
+<img src="./img/exclusao.gif" width="500" height="450" alt="Delete frame" title="Delete frame"/>
 
 To perform, run as a Java Application on the EstacionamentoApp.java class.
 
