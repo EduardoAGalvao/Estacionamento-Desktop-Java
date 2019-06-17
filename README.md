@@ -70,4 +70,8 @@ To remove the vehicle, just push the button. It's gonna show the payment value a
 
 To perform, run as a Java Application on the EstacionamentoApp.java class.
 
+Version: 1.0
+
+Creation: 02/05/2019
+
 *Everything made with a lot of curiosity and programming passion*
